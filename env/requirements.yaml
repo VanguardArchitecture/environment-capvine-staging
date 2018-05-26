@@ -13,6 +13,3 @@ dependencies:
 - name: jwnb-jx-python-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: auth-a0-p-va-01-login
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
